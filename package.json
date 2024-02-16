@@ -7,6 +7,7 @@
     "@wdio/mocha-framework": "^8.31.1",
     "@wdio/sauce-service": "^8.32.1",
     "@wdio/spec-reporter": "^8.31.1",
+    "prettier": "3.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
